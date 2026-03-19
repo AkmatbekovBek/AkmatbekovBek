@@ -1,4 +1,3 @@
-<!-- ВЕРХНИЙ БАННЕР -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF1493,8A2BE2,FF1493&height=250&section=header&text=Привет,%20я%20Бек!%20👋&fontSize=50&fontAlignY=38&desc=Создаю%20технологии%20будущего&descAlignY=60&descAlign=50&fontColor=ffffff" width="100%" />
 </div>
@@ -10,13 +9,11 @@
 <br>
 
 <div align="center">
-  <a href="https://t.me/AKMBV7">
+  <a href="https://t.me/AKMBV7" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-FF1493?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:bekakmatbekov54@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/bek-akmatbekov">
+  <img src="https://img.shields.io/badge/Email-bekakmatbekov54@gmail.com-FF1493?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="https://linkedin.com/in/bek-akmatbekov" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
@@ -58,7 +55,6 @@
 
 ---
 
-
 ### 🛠 Мой Арсенал (Стек Технологий)
 
 <div align="center">
@@ -77,26 +73,26 @@
 ### 📂 Избранные Проекты
 
 <div align="center">
-  <table>
+  <table width="100%">
     <tr>
       <th>Проект</th>
       <th>Описание</th>
       <th>Технологии</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/AkmatbekovBek/python-course-learning">🌟 python-course-learning / Python Projects</a></td>
-      <td>Алгоритмы и курсовые проекты</td>
+      <td><a href="https://github.com/AkmatbekovBek/Telegram-bot-EXEZ">🚀 Telegram-bot-EXEZ</a></td>
+      <td>Многофункциональный игровой бот с экономикой и RP-системой</td>
+      <td>Python, Aiogram, PostgreSQL</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AkmatbekovBek/Telegram-bot-TPT">🌶️ Telegram-bot-TPT</a></td>
+      <td>Бот с системой кланов, фоновыми задачами и сложной экономикой</td>
+      <td>Python, SQLAlchemy, APScheduler</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/AkmatbekovBek/python-course-learning">🌟 Python Learning</a></td>
+      <td>Архив учебных проектов, алгоритмов и курсовых работ</td>
       <td>Python, Django</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/AkmatbekovBek/Telegram-bot-EXEZ">🚀 Telegram Bot / Aiogram</a></td>
-      <td>Продвинутый проект tg-bot</td>
-      <td>Python, PostgreSQL</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/AkmatbekovBek/AkmatbekovBek">📱 README</a></td>
-      <td>Информация обо мне</td>
-      <td>readme</td>
     </tr>
   </table>
 </div>
