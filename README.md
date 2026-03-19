@@ -1,10 +1,6 @@
 # Привет, я Бек! 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkmatbekovBek&color=blueviolet&style=flat-square&label=ПРОСМОТРЫ+ПРОФИЛЯ" alt="Profile Views" />
-</p>
-
-Я — 18-летний разработчик из Бишкека, Кыргызстан 🇰🇬 (Bekaexez). Увлекаюсь созданием программного обеспечения, изучением новых технологий и решением интересных задач!
+Я — 18-летний разработчик из Кыргызстана 🇰🇬. Увлекаюсь созданием программного обеспечения, изучением новых технологий и решением интересных задач!
 
 ---
 
@@ -34,7 +30,6 @@
 - � **[Beka_32-2_hw_month4](https://github.com/AkmatbekovBek/Beka_32-2_hw_month4)** — Домашние задания за 4-й месяц обучения. Использованные технологии: `Python`.
 - 💻 **[Bek_32-2_hw-month 3](https://github.com/AkmatbekovBek/Bek_32-2_hw-month%203)** — Задания за 3-й месяц. Использованные технологии: `Python`.
 
-*(При желании ты можешь заменить эти ссылки на свои самые крутые проекты из портфолио, например, на Django и Flutter)*
 
 ---
 
@@ -67,7 +62,7 @@
 Открыт для новых предложений, совместных проектов и интересного общения!
 
 <p align="left">
-  <a href="https://t.me/YOUR_TELEGRAM_USERNAME"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://t.me/@AKMBV7"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
