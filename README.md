@@ -13,10 +13,10 @@
   <a href="https://t.me/AKMBV7">
     <img src="https://img.shields.io/badge/Telegram-FF1493?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:bekakmatbekov54@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF1493?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://linkedin.com/in/bek-akmatbekov">
     <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
