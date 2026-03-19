@@ -1,6 +1,6 @@
-<!-- ВЕРХНИЙ БАННЕР С АНИМИРОВАННЫМ ГРАДИЕНТОМ И ЗВЕЗДАМИ -->
+<!-- ВЕРХНИЙ БАННЕР В ФИОЛЕТОВО-РОЗОВОМ КИБЕРПАНК СТИЛЕ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=210B3B,8A2BE2,FF1493,210B3B&animation=twinkling&height=250&section=header&text=Привет,%20я%20Бек!%20👋&fontSize=50&fontAlignY=38&desc=Создаю%20технологии%20будущего&descAlignY=60&descAlign=50&fontColor=ffffff" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=1A0B2E,8A2BE2,FF1493,1A0B2E&animation=twinkling&height=250&section=header&text=Привет,%20я%20Бек!%20👋&fontSize=50&fontAlignY=38&desc=Создаю%20технологии%20будущего&descAlignY=60&descAlign=50&fontColor=ffffff" alt="Header Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -41,6 +41,22 @@
 
 ---
 
+### 📊 Github Статистика
+
+<div align="center">
+  <!-- Неоново-розовая/фиолетовая кастомная стилизация, идеально вписанная в темную тему 0D1117 -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AkmatbekovBek&show_icons=true&bg_color=0D1117&title_color=FF1493&text_color=94A3B8&icon_color=8A2BE2&border_color=30363D&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkmatbekovBek&layout=compact&bg_color=0D1117&title_color=FF1493&text_color=94A3B8&border_color=30363D&hide_border=false" height="165" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkmatbekovBek&background=0D1117&ring=FF1493&fire=FF1493&currStreakNum=8A2BE2&sideNums=94A3B8&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=94A3B8&stroke=30363D&border=30363D" alt="GitHub Streak" />
+</div>
+
+---
+
 ### 🛠 Мой Арсенал (Стек Технологий)
 
 <div align="center">
@@ -64,22 +80,6 @@
 | 🚀 **[Backend Cource (Month 4)](https://github.com/AkmatbekovBek/Beka_32-2_hw_month4)** | Очередной этап развития в бэкенде. Собраны более сложные архитектурные решения. | <img src="https://skillicons.dev/icons?i=python,postgres" width="60"/> |
 | 📱 **[Algorithm & Basics (Month 3)](https://github.com/AkmatbekovBek/Bek_32-2_hw-month%203)** | Изучение алгоритмов, структур данных и базовых принципов написания логичного кода. | <img src="https://skillicons.dev/icons?i=python" width="30"/> |
 
-
----
-
-### 📊 Github Статистика
-
-<div align="center">
-  <!-- Неоново-розовая/фиолетовая кастомная стилизация, идеально вписанная в темную тему 0D1117 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AkmatbekovBek&show_icons=true&bg_color=0D1117&title_color=FF1493&text_color=94A3B8&icon_color=8A2BE2&border_color=30363D&hide_border=false" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkmatbekovBek&layout=compact&bg_color=0D1117&title_color=FF1493&text_color=94A3B8&border_color=30363D&hide_border=false" height="165" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkmatbekovBek&background=0D1117&ring=FF1493&fire=FF1493&currStreakNum=8A2BE2&sideNums=94A3B8&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=94A3B8&stroke=30363D&border=30363D" alt="GitHub Streak" />
-</div>
 
 ---
 
