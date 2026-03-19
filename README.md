@@ -41,7 +41,7 @@
 
 <div align="center">
   <!-- Розовая стилизация (Neon Pink) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AkmatbekovBek&show_icons=true&bg_color=0D1117&title_color=FF1493&text_color=C9D1D9&icon_color=FF1493&border_color=FF1493&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkmatbekovBek&custom_title=Akmatbekov's%20GitHub%20Stats&show_icons=true&bg_color=0D1117&title_color=FF1493&text_color=C9D1D9&icon_color=FF1493&border_color=FF1493&hide_border=false" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkmatbekovBek&layout=compact&bg_color=0D1117&title_color=FF1493&text_color=C9D1D9&border_color=FF1493&hide_border=false" height="165" alt="Top Languages" />
 </div>
 
@@ -104,5 +104,4 @@
 <div align="center">
   <p><i>"Программирование — это искусство создания того, чего не существует"</i></p>
   <br>
-  <img src="https://profile-counter.glitch.me/AkmatbekovBek/count.svg" alt="Profile Views" />
 </div>
