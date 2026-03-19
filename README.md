@@ -1,6 +1,6 @@
-<!-- ВЕРХНИЙ БАННЕР В ЯРКО-РОЗОВОМ СТИЛЕ -->
+<!-- ВЕРХНИЙ БАННЕР В ПОСТОЯННОМ ЯРКО-РОЗОВОМ СТИЛЕ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=FF1493,1A0B2E,FF1493&animation=twinkling&height=250&section=header&text=Привет,%20я%20Бек!%20👋&fontSize=50&fontAlignY=38&desc=Создаю%20технологии%20будущего&descAlignY=60&descAlign=50&fontColor=ffffff" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF1493,8A2BE2,FF1493&height=250&section=header&text=Привет,%20я%20Бек!%20👋&fontSize=50&fontAlignY=38&desc=Создаю%20технологии%20будущего&descAlignY=60&descAlign=50&fontColor=ffffff" alt="Header Banner" width="100%" />
 </div>
 
 <div align="center">
